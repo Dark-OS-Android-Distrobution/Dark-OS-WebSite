@@ -2,8 +2,9 @@
 
 body {
     margin: 0;
-    font-family: sans-serif;
+    font-family: "Roboto", sans-serif;
     overflow-x: hidden;
+    background-color: #262626;
 }
 
 .navbar {
@@ -34,10 +35,31 @@ body {
     text-decoration: none;
     color: white;
     display: inline-block;
-    font-family: "Roboto", sans-serif;
     font-size: 20px;
     margin: 0;
     margin-right: 59px;
     margin-top: 8px;
+}
 
+.centerer {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#trebuchet {
+    width: 490px;
+    font-weight: lighter;
+    color: white;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+#trebuchetp {
+    width: 560px;
+    color: white;
+    margin: 20px auto 0 auto;
+}
+
+#trebuchetimg {
+    margin-top: 19px;
 }
