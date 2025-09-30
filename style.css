@@ -3,6 +3,7 @@
 body {
     margin: 0;
     font-family: sans-serif;
+    overflow-x: hidden;
 }
 
 .navbar {
@@ -38,4 +39,5 @@ body {
     margin: 0;
     margin-right: 59px;
     margin-top: 8px;
+
 }
